@@ -1,4 +1,5 @@
 jupyterlab<5
 pandas<3
 polars<1
+requests<3
 seaborn<1
